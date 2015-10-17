@@ -1,8 +1,8 @@
 #--------------------------------------------------------------------------------
 # Values for this workshop - EDIT THIS SECTION.
 #--------------------------------------------------------------------------------
-workshop_repo   : "http://github.com/xuf12/2015-09-08-ccny"
-workshop_site   : "http://xuf12.github.io/2015-09-08-ccny"
+workshop_repo   : "https://github.com/xuf12/2015-11-10-northwesternu"
+workshop_site   : "http://xuf12.github.io/2015-11-10-northwesternu/"
 #--------------------------------------------------------------------------------
 # Standard Software Carpentry settings - should not need to be modified.
 #--------------------------------------------------------------------------------
