@@ -1,8 +1,8 @@
 #--------------------------------------------------------------------------------
 # Values for this workshop - EDIT THIS SECTION.
 #--------------------------------------------------------------------------------
-workshop_repo   : "https://github.com/nuitrcs/2016-9-2021-northwesternu"
-workshop_site   : "http://nuitrcs.github.io/2016-9-2021-northwesternu/"
+workshop_repo   : "https://github.com/nuitrcs/ProgrammingForBiologists"
+workshop_site   : "http://nuitrcs.github.io/ProgrammingForBiologists/"
 #--------------------------------------------------------------------------------
 # Standard Software Carpentry settings - should not need to be modified.
 #--------------------------------------------------------------------------------
